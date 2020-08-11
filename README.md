@@ -2,6 +2,7 @@
 
 ## Prerequisites
 * [Dotnet Core SDK 3.1](https://dotnet.microsoft.com/download)
+* Google Chrome (Version 84.x)
 
 
 ## Usage
